@@ -1,4 +1,4 @@
-*{
+/* *{
   margin: 0;
   padding: 0;
   border: 0;
@@ -128,7 +128,7 @@ p {
   h1::after {
     height: 4px;
   }
-}
+} */
 
 
 
